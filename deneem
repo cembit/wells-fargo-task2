@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Task 2: JPA entities for Wells Fargo Forage"
+git branch -M main
+git remote add origin https://github.com/cembit/wells-fargo-task2
